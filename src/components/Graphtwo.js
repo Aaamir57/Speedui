@@ -28,18 +28,13 @@ const App = () => {
       indexLabelPlacement: "outside",
       color: "",
       dataPoints: [
-        { x: 10, y: 71, color: "yellow" },
+        { x: 10, y: 71, color: "red" },
         { x: 20, y: 55, color: "blue" },
         { x: 20, y: 55, color: "red" },
         { x: 0, y: 0, color: "red" },
         { x: 40, y: 65, color: "yellow" },
         { x: 50, y: 71, color: "red" },
-        { x: 60, y: 68, color: "blue" },
-        { x: 70, y: 38, color: "red" },
-        { x: 80, y: 92, indexLabel: "Highest", color: "blue" },
-        { x: 90, y: 54, color: "red" },
-        { x: 100, y: 60, color: "yellow" },
-        { x: 110, y: 21, color: "red" },
+       
       
       ]
     }]
